@@ -4,7 +4,7 @@ En el archivo [Entrada.xml](Entrada.xml) se encuentra un ejemplo de archivo de e
 
 ## :information_source:  Información General
 
-Este programa fue realizado como parte del curso de **Arquitectura de Computadoras y Ensambladores 1** de la Universidad San Carlos de Guatemala. Los requerimientos utilizados para su elaboración pueden ser encontrados en el documento [Enunciado_Practica6.pdf](Enunciado_Practica6.pdf). Todo el **código de fuente** del programa se encuentra en el archivo [XmlSort.asm](XmlSort.asm).
+Este programa fue realizado como parte del curso de **Arquitectura de Computadoras y Ensambladores 1** de la Universidad San Carlos de Guatemala. Los requerimientos utilizados para su elaboración pueden ser encontrados en el documento [Practica6_Enunciado.pdf](Practica6_Enunciado.pdf). Todo el **código de fuente** del programa se encuentra en el archivo [XmlSort.asm](XmlSort.asm).
 
 ### 📋 Pre-requisitos
 
@@ -23,7 +23,7 @@ Video con demostración del uso del programa:
 
 [![Video](https://img.youtube.com/vi/746a0rzsOAY/0.jpg)](https://youtu.be/746a0rzsOAY)
 
-Consultar [Enunciado_Practica6.pdf](Enunciado_Practica6.pdf) para ver todas las funcionalidades del programa y su uso.
+Consultar [Practica6_Enunciado.pdf](Practica6_Enunciado.pdf) para ver todas las funcionalidades del programa y su uso.
 
 ### :books: Referencias
 
