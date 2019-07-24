@@ -15,6 +15,8 @@ Para la ejecución de este programa se utiliza el emulador [DOSBox](https://www.
 Para la generación del ejecutable abrimos en **DOSBox** la ubicación donde se encuentra el código de fuente [XmlSort.asm](XmlSort.asm) e ingresamos el comando `ml xmlsort.asm`:
 ![Captura generación ejecutable 2](Capturas/genejecutable2.png)
 
+Después de realizado lo anterior, se nos generará el ejecutable **xmlsort.exe**.
+
 ### :diamonds: Uso del programa
 
 Video con demostración del uso del programa:
